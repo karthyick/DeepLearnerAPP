@@ -1,5 +1,7 @@
 # Deep Learning Topics Explorer
 
+https://676689fe223daa0d5550c25c--gilded-semifreddo-7f5a15.netlify.app/
+
 Purpose:
 This web application serves as an educational resource for students and enthusiasts in deep learning. It provides structured information about deep learning topics, subtopics, and relevant resources.
 
